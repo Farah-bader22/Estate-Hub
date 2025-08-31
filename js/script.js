@@ -33,7 +33,7 @@ const citySwiper = new Swiper('.citySwiper', {
   spaceBetween: 25,
   loop: true,
   autoplay: {
-    delay: 7000,
+    delay: 9000,
     disableOnInteraction: false,
   },
   navigation: {
